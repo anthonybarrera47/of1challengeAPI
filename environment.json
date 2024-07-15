@@ -1,0 +1,63 @@
+{
+	"id": "68e07132-1363-49f3-b818-b5348d75be7c",
+	"name": "DeUna Environment",
+	"values": [
+		{
+			"key": "YOUR-API-KEY",
+			"value": "live_9fjcOZzA9Q8tKV0gMzOjMwr4ftDCT3fJ61lkngXM7rVfWZRwhiYEJCpGqGnq0TIG",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "endpoint",
+			"value": "https://api.thecatapi.com/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "breed_ids",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "current_index",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "breed_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "image_ids",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "current_image_index",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "image_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "auth_error",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-07-09T02:14:30.709Z",
+	"_postman_exported_using": "Postman/11.2.34"
+}
